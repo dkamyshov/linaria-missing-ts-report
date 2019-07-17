@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "rootDir": "./src",
+    "noEmit": true
+  },
+  "exclude": ["node_modules"]
+}

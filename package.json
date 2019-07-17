@@ -1,0 +1,13 @@
+{
+  "name": "linaria-missing-ts-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "tsc"
+  },
+  "devDependencies": {
+    "linaria": "1.4.0-alpha.1",
+    "typescript": "^3.5.3"
+  }
+}
